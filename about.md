@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "关于：About"
+title: "团队介绍：About"
 ---
 
-## 项目简介：
+## 团队简介：
 
 * 
 * 

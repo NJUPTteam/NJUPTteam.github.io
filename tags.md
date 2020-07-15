@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tags
+title: 服务模式Tags
 ---
 <div>
 {% for tag in site.tags %} 
