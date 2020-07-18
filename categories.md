@@ -31,7 +31,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg" width="150" height="150"/>
+									<img src="images/gwc.jpg" width="50" height="50"/>
 								</a>
 							</div>
 						</div>
@@ -51,7 +51,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg" width="150" height="150"/>
+									<img src="images/gwc.jpg" width="50" height="50"/>
 								</a>
 							</div>
 						</div>
@@ -71,7 +71,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg"  width="150" height="150"/>
+									<img src="images/gwc.jpg"  width="50" height="50"/>
 								</a>
 							</div>
 						</div>
@@ -91,7 +91,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg"  width="150" height="150"/>
+									<img src="images/gwc.jpg"  width="50" height="50"/>
 								</a>
 							</div>
 						</div>
@@ -111,7 +111,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg"  width="150" height="150"/>
+									<img src="images/gwc.jpg"  width="50" height="50"/>
 								</a>
 							</div>
 						</div>
@@ -131,7 +131,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg" width="150" height="150"/>
+									<img src="images/gwc.jpg" width="50" height="50"/>
 								</a>
 							</div>
 						</div>
