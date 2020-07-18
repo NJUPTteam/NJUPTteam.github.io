@@ -17,9 +17,9 @@ title: "联系我们：About"
 ## 联系方式
 
 <p class="contact">
- <a href="qianxinnihongyu_" title="微信公众号"><img src="" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
-        <a href="http://www.qq.com" title="qq1245889824"><img src="images/qq.jpg" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
- <a href="https://163.com" title="163邮箱"></a><br/>
+ <a href="qianxinnihongyu_" title="微信公众号">欢迎关注微信公众号：筑梦大竹</a><br/>
+        <a href="http://www.qq.com" title="qq1245889824">欢迎添加我的QQ：1245889624<img src="images/qq.jpg" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+ <a href="https://163.com" title="163邮箱">欢迎致信我的邮箱：1245889624@163.COM</a><br/>
 </p>
 
 
