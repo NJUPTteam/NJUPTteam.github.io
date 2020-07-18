@@ -5,16 +5,21 @@ title: "联系我们：About"
 
 ## 团队简介：
 
-* 
-* 
-* 
+* 张丽：总负责人。负责各部门的统筹规划，全面负责团队日常工作。
+* 裴晨宇：项目策划部。负责项目策划部门的主要工作，完成对项目模型构建、项目实施方案、项目问题解决等任务。
+* 周李芳：项目策划部。负责项目企划工作的全面掌控。负责制定和完善各种活动的整体营销策划和具体实施方案，做好业务分工与日常监督落实。
+* 叶昱辰：技术架构部。负责技术架构部门的主要工作，设计策划项目平台搭建，负责项目网站的设计维护以及安全方面的工作。
+* 章嵬：运营管理部。了解市场动态，搜集市场信息，协助各部门制订工作计划，管控项目运营过程中可能出现的潜在危机，制定危机处理预案。
+* 叶沚桐：财务管理部。负责财务方面主要工作，规划相关资金流动，确保资金方面正常运转，并编制财务报表，根据报表相关数据做出各类比率数据对项目实况进行评估，与各部门合作共同做好财务规划工作。
+* 张雅怡：运营管理部。处理营销部日常事务，负责本团队发展规划和市场调研，负责团队人员及新志愿者的培训领导工作，以及部分对外联系和宣传工作，
+* 李芯妮：财务管理部。负责项目的资金运转，合理分配资金流，规划日常财务开支，提高资金的利用效率。
 
 ## 联系方式
 
 <p class="contact">
- <a href="http://" title="微信公众号"><img src="http://www." width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
-        <a href="http://www." title="联系我"><img src="http://www." width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
- <a href="https://" title="联系我"><img src="http://www." width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+ <a href="qianxinnihongyu_" title="微信公众号"><img src="" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+        <a href="http://www.qq.com" title="qq1245889824"><img src="images/qq.jpg" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+ <a href="https://163.com" title="163邮箱"></a><br/>
 </p>
 
 
