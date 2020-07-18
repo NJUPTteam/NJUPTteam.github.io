@@ -19,7 +19,7 @@ title: "产品售卖"
 		<div class="img_content">
 			<ul>
 				<li>
-					<img src="images/mai1.jpg" class="img_1">
+					<img src="images/mai1.jpg" width="400" height="400" class="img_1">
 					<div class="info">
 						<h1>儿童书画作品（可带相框）</h1>
 						<p>
@@ -31,7 +31,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg" width="250" height="250"/>
+									<img src="images/gwc.jpg" width="150" height="150"/>
 								</a>
 							</div>
 						</div>
@@ -39,7 +39,7 @@ title: "产品售卖"
 				</li>
 
 				<li>
-					<img src="images/mai2.jpg" class="img_1">
+					<img src="images/mai2.jpg" width="400" height="400" class="img_1">
 					<div class="info">
 						<h2>大竹黑花生</h2>
 						<p>
@@ -51,7 +51,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg" width="250" height="250"/>
+									<img src="images/gwc.jpg" width="150" height="150"/>
 								</a>
 							</div>
 						</div>
@@ -59,7 +59,7 @@ title: "产品售卖"
 				</li>
 
 				<li>
-					<img src="images/mai3.jpg" class="img_1">
+					<img src="images/mai3.jpg" width="400" height="400" class="img_1">
 					<div class="info">
 						<h3>黄粑 </h3>
 						<p>
@@ -71,7 +71,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg" width="250" height="250"/>
+									<img src="images/gwc.jpg"  width="150" height="150"/>
 								</a>
 							</div>
 						</div>
@@ -79,7 +79,7 @@ title: "产品售卖"
 				</li>
 
 				<li>
-					<img src="images/mai4.jpg" class="img_1">
+					<img src="images/mai4.jpg" width="400" height="400"  class="img_1">
 					<div class="info">
 						<h4>醪糟</h4>
 						<p>
@@ -91,7 +91,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg" width="250" height="250"/>
+									<img src="images/gwc.jpg"  width="150" height="150"/>
 								</a>
 							</div>
 						</div>
@@ -99,7 +99,7 @@ title: "产品售卖"
 				</li>
 
 				<li>
-					<img src="images/mai5.jpg" class="img_1">
+					<img src="images/mai5.jpg" width="400" height="400" class="img_1">
 					<div class="info">
 						<h5>香椿酱</h5>
 						<p>
@@ -111,7 +111,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg" width="250" height="250"/>
+									<img src="images/gwc.jpg"  width="150" height="150"/>
 								</a>
 							</div>
 						</div>
@@ -119,7 +119,7 @@ title: "产品售卖"
 				</li>
 
 				<li>
-					<img src="images/mai6.jpg" class="img_1">
+					<img src="images/mai6.jpg"  width="400" height="400" class="img_6">
 					<div class="info">
 						<h6>观音豆干</h6>
 						<p>
@@ -131,7 +131,7 @@ title: "产品售卖"
 							<!-- 购物车按钮 -->
 							<div class="btn">
 								<a href="www.taobao.com" class="cart">
-									<img src="images/gwc.jpg" width="250" height="250"/>
+									<img src="images/gwc.jpg" width="150" height="150"/>
 								</a>
 							</div>
 						</div>
