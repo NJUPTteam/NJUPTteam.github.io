@@ -11,7 +11,7 @@ title: "筑梦大竹——青少年教育帮扶计划"
 -->
 <!-- Loop output paged posts -->
 <body> 
-	 <font size=7><b>用爱与责任托起贫困儿童的美好明天</b></font>
+	 <font size=6><b>用爱与责任托起贫困儿童的美好明天</b></font>
 </body>
 <div id="index" class="row">
     <div class="post-area">
@@ -53,28 +53,6 @@ title: "筑梦大竹——青少年教育帮扶计划"
 	  {% endif %}
 	</ul>
 	</div>
-	
-
-	 
-       {% for category in site.categories %}
-	<div post-cate="{{category | first}}">
-
-          <ul class="posts">
-            {% for posts in category  %}
-              {% for post in posts %}
-                {% if post.url %}
-		<li>
-                  <a href="{{ post.url }}" class="post-list-item">
-                    <h2>{{ post.title }}</h2>
-                    <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
-                  </a>
-		</li>
-                {% endif %}
-              {% endfor %}
-            {% endfor %}
-          </ul>
-	</div>
-        {% endfor %}
 	
 	 </div>
 
