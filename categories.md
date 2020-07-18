@@ -2,29 +2,11 @@
 layout: default
 title: "产品售卖"
 ---
-<head>
-	<meta charset="utf-8">
-	<title>商城</title>
-	<link rel="stylesheet" type="text/css" href="css/index.css">
-	<script type="text/javascript" src="js/index.js"></script>
-</head>
-<body>
-	<!-- --------------------页眉板块-------------------- -->
 	<div class="header">
 		<!-- 设置logo -->
 		<div class="logo">
-			<img src="image/logo.png">
+			<img src="images/Logo1.png">
 		</div>
-		<!-- 设置菜单 -->
-		<div class="menu" onmouseleave="show_menu1()">  
-			<div class="menu_title" onclick="show_menu()">
-				<a href="#">内容分类</a></div>
-			<ul id="menu1" >
-				<li>现实主义</li>
-				<li>抽象主义</li>
-			</ul>
-		</div>
-		<!-- 设置用户登录 -->
 		<div class="auth">
 			<ul>
 				<li><a href="#">注册</a></li>
@@ -33,28 +15,22 @@ title: "产品售卖"
 		</div>
 	</div>
 
-	<!-- --------------------正文板块-------------------- -->
-	<div class="content">
-		<!-- 设置广告栏 -->
-		<div class="banner">
-			<img src="image/welcome.png" class="banner_img">
-		</div>
 		<div class="img_content">
 			<ul>
 				<li>
-					<img src="image/wumingnvlang.jpg" class="img_li">
+					<img src="images/mai1.jpg" class="img_1">
 					<div class="info">
-						<h3>无名女郎</h3>
+						<h1>儿童书画作品（可带相框）</h1>
 						<p>
-							
+							儿童书画作品（可带相框）
 						</p>
 						<div class="img_btn"> 
 							<!-- 价格，购买logo -->
-							<div class="price">¥ 2300</div>
+							<div class="price">¥20-80元/幅</div>
 							<!-- 购物车按钮 -->
 							<div class="btn">
-								<a href="#" class="cart">
-									<img src="image/cart.svg">
+								<a href="www.taobao.com" class="cart">
+									<img src="images/gwc.jpg">
 								</a>
 							</div>
 						</div>
@@ -62,19 +38,19 @@ title: "产品售卖"
 				</li>
 
 				<li>
-					<img src="image/wumingnvlang.jpg" class="img_li">
+					<img src="images/mai2.jpg" class="img_1">
 					<div class="info">
-						<h3>无名女郎</h3>
+						<h2>大竹黑花生</h2>
 						<p>
-							图片描述可以分为多种，这里是一个关于展示的板块，这里是一个关于展示的板块，这里是一个关于展示的板块，这里是一个关于展示的板块，这里是一个关于展示的板块
+							大竹黑花生
 						</p>
 						<div class="img_btn"> 
 							<!-- 价格，购买logo -->
-							<div class="price">¥ 2300</div>
+							<div class="price">¥35元/斤</div>
 							<!-- 购物车按钮 -->
 							<div class="btn">
-								<a href="#" class="cart">
-									<img src="image/cart.svg">
+								<a href="www.taobao.com" class="cart">
+									<img src="images/gwc.jpg">
 								</a>
 							</div>
 						</div>
@@ -82,19 +58,19 @@ title: "产品售卖"
 				</li>
 
 				<li>
-					<img src="image/wumingnvlang.jpg" class="img_li">
+					<img src="images/mai3.jpg" class="img_1">
 					<div class="info">
-						<h3>无名女郎</h3>
+						<h3>黄粑 </h3>
 						<p>
-							图片描述可以分为多种，这里是一个关于展示的板块，这里是一个关于展示的板块，这里是一个关于展示的板块，这里是一个关于展示的板块，这里是一个关于展示的板块
+							黄粑 
 						</p>
 						<div class="img_btn"> 
 							<!-- 价格，购买logo -->
-							<div class="price">¥ 2300</div>
+							<div class="price">¥30元/斤</div>
 							<!-- 购物车按钮 -->
 							<div class="btn">
-								<a href="#" class="cart">
-									<img src="image/cart.svg">
+								<a href="www.taobao.com" class="cart">
+									<img src="images/gwc.jpg">
 								</a>
 							</div>
 						</div>
@@ -102,19 +78,19 @@ title: "产品售卖"
 				</li>
 
 				<li>
-					<img src="image/wumingnvlang.jpg" class="img_li">
+					<img src="images/mai4.jpg" class="img_1">
 					<div class="info">
-						<h3>无名女郎</h3>
+						<h4>醪糟</h4>
 						<p>
-							图片描述可以分为多种，这里是一个关于展示的板块，这里是一个关于展示的板块，这里是一个关于展示的板块，这里是一个关于展示的板块，这里是一个关于展示的板块
+							醪糟
 						</p>
 						<div class="img_btn"> 
 							<!-- 价格，购买logo -->
-							<div class="price">¥ 2300</div>
+							<div class="price">¥15元/斤</div>
 							<!-- 购物车按钮 -->
 							<div class="btn">
-								<a href="#" class="cart">
-									<img src="image/cart.svg">
+								<a href="www.taobao.com" class="cart">
+									<img src="images/gwc.jpg">
 								</a>
 							</div>
 						</div>
@@ -122,19 +98,19 @@ title: "产品售卖"
 				</li>
 
 				<li>
-					<img src="image/wumingnvlang.jpg" class="img_li">
+					<img src="images/mai5.jpg" class="img_1">
 					<div class="info">
-						<h3>无名女郎</h3>
+						<h5>香椿酱</h5>
 						<p>
-							
+							香椿酱
 						</p>
 						<div class="img_btn"> 
 							<!-- 价格，购买logo -->
-							<div class="price">¥ 2300</div>
+							<div class="price">¥40元/斤</div>
 							<!-- 购物车按钮 -->
 							<div class="btn">
-								<a href="#" class="cart">
-									<img src="image/cart.svg">
+								<a href="www.taobao.com" class="cart">
+									<img src="images/gwc.jpg">
 								</a>
 							</div>
 						</div>
@@ -142,19 +118,19 @@ title: "产品售卖"
 				</li>
 
 				<li>
-					<img src="image/wumingnvlang.jpg" class="img_li">
+					<img src="images/mai6.jpg" class="img_1">
 					<div class="info">
-						<h3>无名女郎</h3>
+						<h6>观音豆干</h6>
 						<p>
-							
+							观音豆干
 						</p>
 						<div class="img_btn"> 
 							<!-- 价格，购买logo -->
-							<div class="price">¥ 2300</div>
+							<div class="price">¥25元/斤</div>
 							<!-- 购物车按钮 -->
 							<div class="btn">
-								<a href="#" class="cart">
-									<img src="image/cart.svg">
+								<a href="www.taobao.com" class="cart">
+									<img src="images/gwc.jpg">
 								</a>
 							</div>
 						</div>
@@ -163,6 +139,4 @@ title: "产品售卖"
 			</ul>
 			
 		</div>
-————————————————
-版权声明：本文为CSDN博主「文若呀」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/wankcn/article/details/92105068
+
