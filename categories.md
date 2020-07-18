@@ -2,6 +2,7 @@
 layout: default
 title: "产品售卖"
 ---
+<body>
 	<div class="header">
 		<!-- 设置logo -->
 		<div class="logo">
@@ -139,4 +140,4 @@ title: "产品售卖"
 			</ul>
 			
 		</div>
-
+</body>
