@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "联系我们：About"
+title: "联系我们"
 ---
 
 ## 团队简介：

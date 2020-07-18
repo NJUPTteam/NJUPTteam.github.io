@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "产品售卖：Categories"
+title: "产品售卖"
 ---
 <head>
 	<meta charset="utf-8">

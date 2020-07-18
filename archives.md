@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "分析：Archives"
+title: "义卖活动"
 ---
 <ul class="list-unstyled">
      {% for post in site.posts limit:100 %} 

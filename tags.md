@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 服务模式Tags
+title: 招募募捐
 ---
 <div>
 {% for tag in site.tags %} 
