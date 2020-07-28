@@ -58,7 +58,7 @@ title: 招募募捐
 <input type="radio" name="志愿时间" value="三年及以上" checked>三年及以上
 </form>
 <form action="/demo/demo_form.asp">
-<input type="提交" value="提交">
+<input type="Sumit" value="Sumit">
 </form> 
 
 <p>如果您点击提交，表单数据会被发送到筑梦大竹自愿者招募系统。</p>
