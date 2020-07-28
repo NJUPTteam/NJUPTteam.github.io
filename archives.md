@@ -2,14 +2,11 @@
 layout: default
 title: "义卖活动"
 ---
-<ul class="list-unstyled">
-     {% for post in site.posts limit:100 %} 
-	 {% unless post.next %} 
-    <h2>{{ post.date | date: '%Y' }}</h2> 
-	{% else %} {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %} {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %} 
-	{% if year != nyear %} 
-    <h2>{{ post.date | date: '%Y' }}</h2> {% endif %} 
-	{% endunless %} 
-    <li><h4><span>{{ post.date | date_to_string }}</span>&raquo;<a href="{{ post.url }}">{{ post.title }}</a></h4></li> 
-	{% endfor %} 
-</ul> 
+<body>
+<div><img src="/images/Logo1.png"  alt="" /></div>
+来看看我们的义卖活动吧
+<div><img src="/images/yimai1.jpg"  alt="孩子们的合影" /></div>
+<div><img src="/images/yimai2.jpg"  alt="布置现场中" /></div>
+<div><img src="/images/yimai3.jpg"  alt="夜晚如此美丽" /></div>
+<div><img src="/images/yimai4.jpg"  alt="来参与的同学们" /></div>
+</body>
