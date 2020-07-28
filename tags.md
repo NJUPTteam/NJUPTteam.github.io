@@ -31,6 +31,7 @@ title: 招募募捐
 <br>
 <input type="radio" name="身体状况" value="很差" checked>很差
 </form>
+职业
 <form>
 <input type="radio" name="职业" value="学生" checked>学生
 <br>
@@ -43,7 +44,6 @@ title: 招募募捐
 <input type="radio" name="职业" value="教师" checked>教师
 <br>
 <input type="radio" name="职业" value="工程师" checked>工程师
-</body>
 </form>
 志愿时间
 <form>
